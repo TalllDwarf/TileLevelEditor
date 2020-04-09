@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c3ff6314da089244c9cfe6a66e07e034
+timeCreated: 1508761883
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 1181691156365454, guid: 8c96781d3e2471a40ad87f5fb8258eea,
+      type: 2}
+  - waterPrefab: {fileID: 1782818819892720, guid: 951907a9e2a117249bd83efa97522814,
+      type: 2}
+  - rockPrefab: {fileID: 1342984270132748, guid: 9743ff2a6f36e4144bed1d4e69b19585,
+      type: 2}
+  - treePrefab: {fileID: 1180540901870450, guid: 7f0ceef73b89ede4684e01d100c72523,
+      type: 2}
+  - goldPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
